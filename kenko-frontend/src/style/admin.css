@@ -1,0 +1,25 @@
+.slider-logo{
+    display: flex;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar-margin{
+    margin-right: 20px;
+}
+.first-col{
+    flex : 4
+}
+.second-col{
+    flex : 2
+}
+.third-col{
+    flex : 1
+}
+.forth-col{
+    flex : 1
+}
+
